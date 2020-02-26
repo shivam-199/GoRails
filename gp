@@ -1,4 +1,4 @@
 git add -A
-git commit -m "contact form live debugged"
+git commit -m "debugging"
 git push origin master
 git push heroku master
