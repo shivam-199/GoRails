@@ -1,3 +1,3 @@
 git add -A
-git commit -m "done with this"
-git push origin comments
+git commit -m "final"
+git push origin master
