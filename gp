@@ -1,3 +1,3 @@
 git add -A
-git commit -m "added comment controller, view"
+git commit -m "paginate"
 git push origin comments
