@@ -1,4 +1,3 @@
 git add -A
-git commit -m "debugging"
+git commit -m "final"
 git push origin master
-git push heroku master
