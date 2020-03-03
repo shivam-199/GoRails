@@ -1,6 +1,3 @@
-eval $(ssh-agent -s)
-ssh-add ~/environment/ssh/key
-ssh -T git@github.com
 git add -A
-git commit -m "added comment model"
+git commit -m "added comment controller, view"
 git push origin comments
